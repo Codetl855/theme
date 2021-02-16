@@ -3915,7 +3915,7 @@ html.side-header-hamburguer-sidebar:not(.side-header-hide).side-header-hamburgue
 }
 
 html.side-header-hamburguer-sidebar:not(.side-header-hide).side-header-hamburguer-sidebar-right.side-header-hamburguer-sidebar-push body>.body {
-    left: -355px;
+    left: -240px;
     right: auto;
 }
 
